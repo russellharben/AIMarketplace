@@ -42,6 +42,10 @@ function checkForCategory(path) {
           $('.popular').attr('data-category', 'Cars');
           break;
 
+          case '/addCategories/Nature':
+          $('.popular').attr('data-category', 'Nature');
+          break;
+
           case '/addCategories/Leisure':
           $('.popular').attr('data-category', 'Leisure');
           break;
