@@ -85,11 +85,12 @@
 }
 
 .gallery-item .gallery-curve-wrapper {
-    transition:.2s ease-in-out;
+    transition: box-shadow .2s ease-in-out;
+
 }
 
 .gallery-item .gallery-curve-wrapper:hover {
-    box-shadow:0px 0px 24px 6px #c9c5c5;
+    box-shadow:0px 0px 24px 4px #8c8c8c;
 }
 
 .greenIcon {
