@@ -94,7 +94,22 @@
 
 .greenIcon {
     color:#75a951;
-    opacity:.95;
+    opacity:.45;
+}
+
+.social {
+    font-size:1.2em;
+    margin-left:10px;
+    margin-right:10px;
+    color:#737373;
+}
+
+.page-footer a {
+    color:#737373;
+}
+
+.page-footer a:hover, .social:hover {
+    color:#608a42;
 }
 
 .marginTop20 {
