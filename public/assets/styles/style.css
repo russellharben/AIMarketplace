@@ -99,9 +99,8 @@
 }
 
 #brandName {
-    font-family: 'Cinzel', serif;
-    letter-spacing:.08em;
-    margin-top:5px;
+    letter-spacing:.02em;
+    margin-top:2px;
 }
 
 .social {
