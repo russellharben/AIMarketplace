@@ -99,6 +99,7 @@
 }
 
 #brandName {
+    font-family: 'Quicksand', sans-serif;
     letter-spacing:.02em;
     margin-top:2px;
 }
