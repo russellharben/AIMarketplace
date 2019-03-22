@@ -98,6 +98,12 @@
     opacity:.45;
 }
 
+#brandName {
+    font-family: 'Cinzel', serif;
+    letter-spacing:.1em;
+    margin-top:5px;
+}
+
 .social {
     font-size:1.2em;
     margin-left:10px;
